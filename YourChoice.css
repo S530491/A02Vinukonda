@@ -1,0 +1,40 @@
+body {
+    background-image: url("YourChoice.jpg");
+	background-size:fill;
+}
+p{
+	text-align: center;
+    color:red;
+}
+#siri{
+	text-align: center;
+	color:white;
+	font-size: 30px;
+}
+.si{
+	text-align:center;
+	color:white;
+	font-size: 20px;
+	
+}
+.ntop{
+    background-image: url("YourChoice.jpg");
+	overflow : hidden;
+}
+.ntop a{
+	float: left;
+	display: block;
+	color:#f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.ntop a:hover{
+	background-color: #ddd;
+    background-image: url("YourChoice.jpg");
+}
+.ntop a.active{
+	background-color: #4c4c4c;
+	color:white;
+}

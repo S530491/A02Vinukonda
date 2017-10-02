@@ -1,0 +1,81 @@
+
+table,td,th{ 
+
+border: 1px solid gray;
+color:silver;
+	padding: 1px;
+}
+
+body {
+    background-image: url("black.2.jpg");
+	background-size:fill;
+}
+
+.img-circle{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	margin: 20px;
+	float:right;
+}
+
+h1.jj{
+    
+    text-align: center;
+	color: cyan;
+	
+}
+#col{
+	color:cyan;
+	
+}
+.ntop{
+	background-image: url("black.2.jpg");
+	overflow: hidden;
+	
+}
+.ntop a{
+	float: left;
+	display: block;
+	color:cyan;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+	
+}
+.ntop a:hover{
+	background-color: #ddd;
+	color:black;
+}
+.ntop a.active{
+	background-color: #4c4c4c;
+	color:cyan;
+}
+#education{
+	
+	color:black;
+	
+}
+span.wipro{
+	color:silver;
+	font-size: 20px;
+}
+
+
+p{
+    color: white;
+    font-size: 15px;
+	
+}
+aside{
+	
+	color: white;
+	font-size: 15px;
+}
+#list{
+	color:white;
+}
+h3.head{
+	color:cyan;
+}
